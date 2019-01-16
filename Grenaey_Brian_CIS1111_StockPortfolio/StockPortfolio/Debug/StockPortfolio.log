@@ -1,0 +1,4 @@
+﻿  StockPortfolio.cpp
+d:\school\cis\cis 1111 hw\stockportfolio\stockportfolio\stockportfolio.cpp(32): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\school\cis\cis 1111 hw\stockportfolio\stockportfolio\stockportfolio.cpp(56): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  StockPortfolio.vcxproj -> D:\School\CIS\CIS 1111 HW\StockPortfolio\Debug\StockPortfolio.exe

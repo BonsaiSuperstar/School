@@ -1,0 +1,3 @@
+﻿  CalculateYourGrade.cpp
+d:\school\cis\cis 1111\greaney_brian_cis1111_calculateyourgrade\greaney_brian_cis1111_calculateyourgrade\calculateyourgrade.cpp(71): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+d:\school\cis\cis 1111\greaney_brian_cis1111_calculateyourgrade\greaney_brian_cis1111_calculateyourgrade\calculateyourgrade.cpp(25): error C4700: uninitialized local variable 'again' used
