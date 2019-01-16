@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D9D31E5E-8B83-4C03-A402-2AFED6BB544C}</ProjectGuid>
+    <ProjectGuid>{5B96BFDA-C9FE-4AC9-98FB-40608E238AD6}</ProjectGuid>
     <RootNamespace>Greaney_Brian_CIS1202_BaseballStatistics</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -64,6 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Greaney_Brian_CIS1202_BaseballStats.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

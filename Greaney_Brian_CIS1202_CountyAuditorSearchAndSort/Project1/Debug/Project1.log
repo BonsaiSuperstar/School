@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Greaney_Brian_CIS1202_CountyAuditorSearchAndSort.cpp
+  Project1.vcxproj -> D:\School\CIS\CIS 1202\Greaney_Brian_CIS1202_CountyAuditorSearchAndSort\Debug\Greaney_Brian_CIS1202_CountyAuditorSearchAndSort.exe

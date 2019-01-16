@@ -1,0 +1,6 @@
+﻿  SplittingAnExpression.cpp
+d:\school\cis\cis 1202\greaney_brian_cis1202_splittinganexpression\greaney_brian_cis1202_splittinganexpression\splittinganexpression.cpp(22): warning C4018: '<': signed/unsigned mismatch
+d:\school\cis\cis 1202\greaney_brian_cis1202_splittinganexpression\greaney_brian_cis1202_splittinganexpression\splittinganexpression.cpp(27): warning C4018: '<': signed/unsigned mismatch
+d:\school\cis\cis 1202\greaney_brian_cis1202_splittinganexpression\greaney_brian_cis1202_splittinganexpression\splittinganexpression.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  Greaney_Brian_CIS1202_SplittingAnExpression.vcxproj -> D:\School\CIS\CIS 1202\Greaney_Brian_CIS1202_SplittingAnExpression\Debug\Greaney_Brian_CIS1202_SplittingAnExpression.exe
+  Greaney_Brian_CIS1202_SplittingAnExpression.vcxproj -> D:\School\CIS\CIS 1202\Greaney_Brian_CIS1202_SplittingAnExpression\Debug\Greaney_Brian_CIS1202_SplittingAnExpression.pdb (Partial PDB)

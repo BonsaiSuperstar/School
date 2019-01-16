@@ -1,0 +1,4 @@
+﻿  Pick a Card.cpp
+d:\school\cis\cis 1202\greaney_brian_cis1202_pickacard\greaney_brian_cis1202_pickacard\pick a card.cpp(37): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Greaney_Brian_CIS1202_PickACard.vcxproj -> D:\School\CIS\CIS 1202\Greaney_Brian_CIS1202_PickACard\Debug\Greaney_Brian_CIS1202_PickACard.exe
+  Greaney_Brian_CIS1202_PickACard.vcxproj -> D:\School\CIS\CIS 1202\Greaney_Brian_CIS1202_PickACard\Debug\Greaney_Brian_CIS1202_PickACard.pdb (Partial PDB)
